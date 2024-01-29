@@ -49,3 +49,4 @@ The linker script (`LinkerScript.ld`) defines the memory layout for the microcon
 
 After flashing the firmware, you can use ST-Link Utility or similar tools to verify that the vector table and other sections are correctly located in the Flash memory.
 
+"# LinkerScript-File-and-StartUpCode-for-Stm32f103c8T6-BluePill-" 
